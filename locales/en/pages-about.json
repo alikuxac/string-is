@@ -1,0 +1,22 @@
+{
+  "heading_acknowledgements": "Acknowledgements",
+  "heading_alternatives": "Alternatives",
+  "li_acknowledgement_is_html": "HTML code detection was inspired by <0>is-html</0>.",
+  "li_alternative_cyber_chef": "<0>CyberChef</0> by the UK\u2019s <1>GCHQ</1> provides an exhaustive set of conversion and crypto tools, and works both online and offline.",
+  "li_alternative_dev_toys": "<0>DevToys</0> by <1>Etienne Baudoux</1> is an open-source Windows desktop tool which looks very good, although I haven't tried it.",
+  "li_alternative_dev_utils": "<0>DevUtils</0> by <1>Tony Dinh</1> is a great open-source MacOS desktop tool.",
+  "li_goal_dependencies": "It should be extremely opinionated about dependancies, and only use well-known, well-supported libraries.",
+  "li_goal_intelligent": "It should try to detect the format of the input, and intelligently choose output options.",
+  "li_goal_no_cookies": "It should not set any cookies.",
+  "li_goal_open_source": "It should be open-source.",
+  "li_goal_strict_csp": "It should have a strict <0>Content Security Policy</0>.",
+  "page_heading": "About string.is",
+  "page_title": "About string.is",
+  "para_icon": "The icon is based on <0>developer</0> by <1>Achmad Mulyana</1>.",
+  "para_acknowledgements": "string.is wouldn\u2019t exist without the following open-source libraries:",
+  "para_built": "string.is was built to meet those goals, and provide a secure, trustworthy string conversion tool.",
+  "para_contact_twitter": "Twitter: <0>@string__is</0> or <1>@davemetrics</1>",
+  "para_goals": "The ideal conversion tool should have the following features in order to protect the privacy of its users:",
+  "para_intro": "string.is is an <0>open-source, privacy-friendly</0> online string toolkit for developers.",
+  "para_paranoid": "It is intended to be a safe alternative to pasting sensitive data into third-party online tools."
+}

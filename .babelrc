@@ -1,0 +1,23 @@
+{
+  "presets": [
+    "next/babel"
+  ],
+  "plugins": [
+    ["module-resolver", {
+      "root": ["./"],
+      "alias": {
+        "@components": "./src/components",
+        "@contexts": "./src/contexts",
+        "@hooks": "./src/hooks",
+        "@images": "./src/images",
+        "@lib": "./src/lib",
+        "@locales": "./locales",
+        "@pages": "./src/components/pages",
+        "@root": "./src",
+        "@services": "./src/services",
+        "@test": "./src/test"
+      }
+    }],
+    "@compiled/babel-plugin"
+  ]
+}

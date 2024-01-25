@@ -1,0 +1,8 @@
+{
+  "algorithm_label": "Algorithm",
+  "sha_1_option": "SHA-1",
+  "sha_224_option": "SHA-224",
+  "sha_256_option": "SHA-256",
+  "sha_384_option": "SHA-384",
+  "sha_512_option": "SHA-512"
+}

@@ -1,0 +1,21 @@
+{
+  "1_tab_option": "1 tab",
+  "2_spaces_option": "2 spaces",
+  "4_spaces_option": "4 spaces",
+  "dialect_db2": "DB2",
+  "dialect_mariadb": "MariaDB",
+  "dialect_mysql": "MySQL",
+  "dialect_n1ql": "N1QL",
+  "dialect_plsql": "PL/SQL",
+  "dialect_postgresql": "PostgreSQL",
+  "dialect_redshift": "Redshift",
+  "dialect_spark": "Spark",
+  "dialect_sql": "SQL",
+  "dialect_sqlite": "SQLite",
+  "dialect_tsql": "T-SQL",
+  "keyword_case_label": "Keyword Case",
+  "keyword_lower_case_option": "Lower",
+  "keyword_upper_case_option": "Upper",
+  "language_label": "SQL Dialect",
+  "tab_width_label": "Indentation"
+}
