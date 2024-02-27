@@ -532,11 +532,12 @@
     resolve-global "1.0.0"
     yargs "^17.0.0"
 
-"@commitlint/config-conventional@^18.5.0":
-  version "18.5.0"
-  resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-18.5.0.tgz#b50b317dfef81f34ff46ef581a5a4a11dafcae59"
-  integrity sha512-XGmU4u3Z7bCn0H0nTEG9LUn6hMDUIPP4P6dun7PKFhtnt/wwiKAqmPj+QRmFiqWjkOWcmrh7w7xRiDL32cWS5g==
+"@commitlint/config-conventional@^19.0.0":
+  version "19.0.0"
+  resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-19.0.0.tgz#3d462be9cd4a3f2676eace218217e487db141e53"
+  integrity sha512-d8lPm+slPUdA8Zof2Y36RqAm/MmAYx/QQIEd2gKbpfLThQK1oYLs+0C3sMPD+4LIq2kh4cnbV9WnPA0P5sN8Ig==
   dependencies:
+    "@commitlint/types" "^19.0.0"
     conventional-changelog-conventionalcommits "^7.0.2"
 
 "@commitlint/config-validator@^18.4.4":
@@ -672,6 +673,13 @@
   integrity sha512-/FykLtodD8gKs3+VNkAUwofu4LBHankclj+I8fB2jTRvG6PV7k/OUt4P+VbM7ip853qS4F0g7Z6hLNa6JeMcAQ==
   dependencies:
     chalk "^4.1.0"
+
+"@commitlint/types@^19.0.0":
+  version "19.0.0"
+  resolved "https://registry.yarnpkg.com/@commitlint/types/-/types-19.0.0.tgz#d5af1c8730c85a1622ae885f2d728fced17a4e0c"
+  integrity sha512-qLjLUdYXKi0TIavONrjBkxrElp7KguqDbvzIRbqTdJBV/cAAr8QEhHe1qUq8OcCM3gFWTlUrDz3ISZbkRoGsAg==
+  dependencies:
+    chalk "^5.3.0"
 
 "@compiled/babel-plugin-strip-runtime@^0.28.0":
   version "0.28.0"
